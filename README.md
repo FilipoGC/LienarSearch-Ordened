@@ -2,4 +2,6 @@
 
 To run code:
 
-gcc
+gcc ...
+
+./BuscaLinearOrdenada < 1M-sort.txt
